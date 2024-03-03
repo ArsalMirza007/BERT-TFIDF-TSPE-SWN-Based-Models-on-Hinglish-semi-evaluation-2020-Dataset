@@ -1,13 +1,19 @@
 # BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset
 
 # TFIDF Results:
-![tfidf acc](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset-/assets/121928372/54a5c438-3d1e-4280-bb15-8b6dbc53589e)
-![tfidf loss](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset-/assets/121928372/ccfb389f-8056-4b60-991a-57c9b20024e7)
-![tfidf classi](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset-/assets/121928372/9d3945b0-b069-4d6e-84a0-1a96653d28c4)
+![Screenshot (21)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/64167b52-3bef-4322-a1d2-c271245cab11)
+![Screenshot (23)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/9389d90f-e490-415f-98c3-7ab3c3ea346d)
+![Screenshot (22)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/e2a0bf04-7bfa-4ace-991d-a2d4121da169)
+
+# TSPE Results:
+![Screenshot (17)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/0516ffb7-3b6a-47c6-affc-0316a4e4ac9a)
+![Screenshot (16)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/99280fb7-f645-4769-aa2b-7dbf22950fb8)
+![Screenshot (15)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/dad3fc07-ea37-4781-a6d5-d4a56add5c85)
 
 # Word2Vec Results:
-![word](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset-/assets/121928372/6dfa6b83-6c78-4f22-b04f-77297aa8a34f)
-![wordll](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset-/assets/121928372/24e54604-c808-4fdb-9583-6ef4dd4aa81d)
-![wordcc](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset-/assets/121928372/4ee63edf-55c4-44f2-b56b-00b267ee5798)
+![Screenshot (18)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/92a780f2-6787-45a5-88c9-a959adc294ca)
+![Screenshot (20)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/4cc6c1ae-aaad-46fa-b484-dbeb20070892)
+![Screenshot (19)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/3bd740bf-5dd2-4af1-a42f-9389c9c5c6d7)
 
-# Other are in the notebook...
+# BERT Results:
+![Screenshot (14)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/ea8ca343-28ea-471e-b96a-90b28797b48b)

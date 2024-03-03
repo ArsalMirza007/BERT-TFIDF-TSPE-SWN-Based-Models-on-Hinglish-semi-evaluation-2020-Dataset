@@ -17,3 +17,11 @@
 
 # BERT Results:
 ![Screenshot (14)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/ea8ca343-28ea-471e-b96a-90b28797b48b)
+
+
+# Graphs:
+
+![actual](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/3bfc57c2-9b4e-4a17-9257-a28d9e4d5472)
+![predicted](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/5bf0f212-77a2-466c-afd4-c456386b9260)
+![line](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/228a925c-948c-47c6-bd0f-5e9bbc622743)
+![bar](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/49b9380f-715d-4992-ac1a-a745f11f8e65)

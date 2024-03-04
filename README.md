@@ -1,4 +1,4 @@
-# BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset
+# BERT-TFIDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset
 
 # TFIDF Results:
 ![Screenshot (21)](https://github.com/ArsalMirza007/BERT-TF-IDF-TSPE-SWN-Based-Models-on-Hinglish-semi-evaluation-2020-Dataset/assets/121928372/64167b52-3bef-4322-a1d2-c271245cab11)
